@@ -1,0 +1,40 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+button#testButton{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: none;
+    outline: none;
+}
+div#madeButton{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: none;
+    outline: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #797979;
+    transition: background-color 0.15s ease;
+    border: 50px;
+}
+div#madeButton:hover{
+    background-color: #0004ff;
+}
+div#madeButton:active{
+    background-color: rgb(175, 175, 175);
+}
+div#container{
+    display: flex;
+}
+input#usernameInput{
+    width: 150px;
+}
+input#passwordInput{
+    width: 150px;
+}
