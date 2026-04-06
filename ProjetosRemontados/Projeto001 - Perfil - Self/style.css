@@ -1,4 +1,83 @@
+<<<<<<< HEAD
 main {
   display: grid;
   grid-template-columns: 450px 1fr;
+=======
+* {
+  box-sizing: border-box;
+}
+
+p {
+  color: #E9ECEF;
+  font-family: "Inter"
+}
+
+h2 {
+  color: #E9ECEF;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+h1 {
+  color: #E9ECEF;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+body {
+  background-color: #0B090A;
+}
+
+header {
+  padding: 15px;
+  background-color: #5390D9;
+  text-align: center;
+  color: #E9ECEF;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+div.thumb {
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+}
+
+img#thumb {
+  width: 350px;
+  justify-self: center;
+  border-radius: 10px;
+}
+
+aside section {
+  margin: 5px;
+  padding: 5px;
+}
+
+aside section h2 {
+  text-align: center;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  gap: 15px;
+}
+
+aside {
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+main > section {
+  border: 1px solid #E9ECEF;
+  background-color: #0A1128;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+main > aside {
+  border: 1px solid #E9ECEF;
+  background-color: #0A1128;
+>>>>>>> 71bca11 (Fiz um Pequeno ajuste no perfil do honrado mais forte e poderoso, alem de bonitão Satoru Gojo.)
 }
