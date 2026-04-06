@@ -1,0 +1,3 @@
+Cor Principal (60%): #263233
+Cor Complementar (30%): #2CA1B0 e #46848B
+Cor Destaque (10%): #00D4F0
