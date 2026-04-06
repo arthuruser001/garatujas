@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-main {
-  display: grid;
-  grid-template-columns: 450px 1fr;
-=======
 * {
   box-sizing: border-box;
 }
@@ -79,5 +74,4 @@ main > section {
 main > aside {
   border: 1px solid #E9ECEF;
   background-color: #0A1128;
->>>>>>> 71bca11 (Fiz um Pequeno ajuste no perfil do honrado mais forte e poderoso, alem de bonitão Satoru Gojo.)
 }
