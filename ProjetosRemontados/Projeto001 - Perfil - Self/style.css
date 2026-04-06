@@ -35,13 +35,13 @@ header {
 div.thumb {
   justify-content: center;
   display: flex;
-  margin-top: 50px;
+  margin-top: 24px;
 }
 
 img#thumb {
   width: 350px;
   justify-self: center;
-  border-radius: 10px;
+  border-radius: 7px;
 }
 
 aside section {
@@ -72,6 +72,6 @@ main > section {
 }
 
 main > aside {
-  border: 1px solid #E9ECEF;
+  border: 1px solid #c5c8ca;
   background-color: #0A1128;
 }
