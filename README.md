@@ -99,3 +99,24 @@ h1 , h2 , h3 {
   }
   ```
 - Essas propriedades que estão dentro do seletor span são todas um fragmento da que está em div. Ou seja, as duas vão fazer a mesma coisa, mas com a segunda é possivel atribuir valores mais especificamente
+
+# Atividades
+
+## Criação de um perfil
+
+### A base do pefil
+
+- É recomendado planejar corretamente a criação do website antes de começar a "programar"
+- Primeiro, é altamente recomendável depois de planejar, começar a fazer o HTML o mais completo possível
+- Após isso vamos fazer as estilizações básicas para fazer um perfil
+- A primeira coisa que vamos estilizar é colocar uma borda em cada elemento que devemos organizar para visualizar melhor o seu tamanho e organização na página. Fazemos isso usando a propriedade CSS ```border: espessura tipo cor```
+- É recomendável colocar cores, espessuras e tipos diferentes para cada elemento, para facilitar a sua disitinção
+- Após colocarmos as bordas, vamos começar a fazer a organização de todos os elementos na página
+- Como queremos fazer como se fossem duas colunas de informação, uma com informações mais objetivas como idade, nome e etc e outra como algo mais extenso, como história e galeria, devemos organizar a página de forma que seja possível criar essas duas colunas. Para isso, usaremos o ```display: grid```
+- O ```display: grid``` faz um elemento organizar os seus filhos (os elementos que estão dentro dele) em uma grade. Como nós iremos somente utilizar colunas, então teremos uma grade de 1 x 2
+- Para configurarmos corretamente a nossa grade, iremos utilizar a configuração do grid com a propriedade CSS ```grid-template-columns: 250px 1fr```
+- Ele simplesmente configura o número e tamanho das colunas de nossa grade, sendo que a primeira seria de 250px (pixels) e a segunda com uma fração do que sobrou, ou seja, ele vai dividir o espaço que sobrou por um e vai retornar esse valor para ser o tamanho das nossas colunas
+- Agora será possível visualizar que dois filhos que foram criados para ser um aquela lateral com imagem e informações objetivas e a parte que seria com informações mais detalhadas organizadas, cada uma em seu lugar.
+- Essa é a base do perfil, a partir dela, é possível estilizar e o deixar bem mais agradável aos ollhos do que algo todo quadrado. Mas o principal do CSS é aprender de pouco em pouco os seletores que deveremos usar, assim, será possível dominar de pouco a pouco a estilização de páginas web.
+
+### A estilização do perfil
