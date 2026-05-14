@@ -1,5 +1,18 @@
 # Garatujas - A Anotação de Desenvolvimento WEB de arthuruser001
 
+# O que é esse repositório?
+
+Esse repositório do github é o repositório de anotações da matéria de webdesign do IFC que pretendo continuar mantendo conforme vou avançando no front-end. Ele contem anotaçoes sobre coisas do html, css e js, como fiz algumas coisas que estao nesse repositorio. Entao aproveite e pegue algumas dessas anotaçoes para voce e aproveite o conhecimento que esse repositorio pode ter que te ajude.
+
+## Informações
+
+- Dono: arthuruser001
+- Finalidade: anotações de desenvolvimento web front-end
+- Há um curso no qual foi baseado? foi baseado no curso de webdesing integrado ao ensino médio no IFC Camboriú
+- O que posso encotrar: exercícios, projetos e anotações sobre HTML, CSS e JavaScript
+- Se você me recomedar adicionar algumas anotações, pode enviar por e-mail (arthuruser001@gmail.com) ou crie um issue no meu repositório
+- Dicas para meu perfil e repositórios também são bem vindas!
+
 # O que é o HTML?
 
 - O HTML é a linguagem que servirá de base para nossos sites;
